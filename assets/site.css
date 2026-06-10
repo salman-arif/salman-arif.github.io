@@ -139,7 +139,7 @@ footer {
   .headshot {
     float: none;
     display: block;
-    width: 220px;
+    width: 100%;
     max-width: 100%;
     margin: 0 0 20px;
   }
